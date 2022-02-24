@@ -19,8 +19,8 @@ body .container {
   padding: 5% 5% 8% 5%;
   width: 100%;
   text-align: center;
-  border: 10px solid #3c475a;
-  background-color: #3c475a;
+  border: 10px solid #1d1d1d;
+  background-color: #1d1d1d;
   border-radius: 10px;
 }
 
@@ -45,17 +45,17 @@ body .container .keypad {
 body .container .keypad button {
   outline: none;
   border: none;
-  background-color: white;
-  color: black;
+  background-color: #353535;
+  color: #cacaca;
 }
 
 body .container .keypad button:hover {
-  background-color: #e6e6e6;
+  background-color: #1c1c1c;
 }
 
 body .container .keypad button:active {
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: black;
 }
 
 body .container .keypad button:first-child {
